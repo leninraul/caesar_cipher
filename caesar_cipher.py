@@ -205,6 +205,8 @@ class CiphertextMessage(Message):
                 result1=s
                 result2=new
         return result2
+    
+#Use the following two functions to decrypt and encrypt.    
             
 def decrypt_story():
     story=get_story_string()
