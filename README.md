@@ -8,3 +8,5 @@ Contains three files.
 -caesar_cipher.py contains a set of functions to encrypt and decrypt the story.txt file using the Caesar cipher technique.
 -story.txt contains the the text to be encrypted/decrypted. 
 -words.text  contains a set of valid words used to implement the functions. 
+
+Make sure all files are saved in the same directory.
